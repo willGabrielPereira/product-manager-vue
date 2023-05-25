@@ -1,6 +1,6 @@
 <template>
     <header>
-        <div class="bg-blue-500">
+        <div class="bg-cyan">
             <nav>
                 <RouterLink to="/">Home</RouterLink>
                 <RouterLink to="/about">About</RouterLink>
